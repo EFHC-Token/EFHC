@@ -10,7 +10,3 @@ EFHC is a token that is part of an innovative project aimed at utilizing eco-fri
 
 - **Telegram:** [@EFHC_Official](https://t.me/EFHC_Official)
 - **Email:** efhc.energy.for.hymanity@gmail.com
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
