@@ -9,4 +9,9 @@ EFHC is a token that is part of an innovative project aimed at utilizing eco-fri
 ## Contact
 
 - **Telegram:** [@EFHC_Official](https://t.me/EFHC_Official)
-- **Email:** efhc.energy.for.hymanity@gmail.com
+- **Email:** efhc.project@gmail.com
+Ссылки:
+EFHC RU: https://sites.google.com/view/efhc
+EFHC NFT: https://getgems.io/efhc-nft
+EFHC UA: https://sites.google.com/view/efhc-ua
+EFHC EN: https://sites.google.com/view/efhc-en
